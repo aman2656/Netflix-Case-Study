@@ -1,7 +1,7 @@
 # Netflix-Case-Study
 Analyzed Netflix Data For Business Insights And Recommendations.
 
-#Recommendations
+# Recommendations
 a. Consider having actors and directors who are more popular in Netflix from the following list:
    Actor- ['Anupam Kher', 'Shah Rukh Khan', 'Julie Tejwani', 'Naseeruddin Shah', 'Takahiro Sakurai]
    Directors- ['Rajiv Chilaka', 'Jan Suter', 'RaÃºl Campos', 'Suhas Kadav', 'Marcus Raboy']
